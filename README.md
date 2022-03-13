@@ -1,0 +1,5 @@
+- Hi, I’m @jeremywakeman
+- I’m interested in Linux, rustlang, bash, perl, ansible, etc.
+- I’m currently learning rust and bevy.
+- I’m looking to collaborate on Linux and rust related projects.
+- How to reach me @jeremywakeman on github. jeremywakeman on sourceforge.net. wakejagr on libera.chat (#archlinux, #linux, #git, and #snallinux).
